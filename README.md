@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmerMubarak
 - 👀 I’m interested in learning new programming languages and expanding my knowledge in the tech industry.
-- 🌱 I’m currently learning Python, Git.
-- 💞️ I’m looking to learn Java and C++ in the future.
+- 🌱 I’m currently learning Java, Python, Git.
+- 💞️ I’m looking to learn C++ in the future.
 - 📫 How to reach me ...
 
 <!---
